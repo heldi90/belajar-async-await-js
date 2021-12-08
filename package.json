@@ -1,0 +1,24 @@
+{
+  "name": "belajar-asny-await",
+  "version": "1.0.0",
+  "description": "belajar asny await di js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heldi90/belajar-async-await-js.git"
+  },
+  "keywords": [
+    "asyncawait",
+    "js"
+  ],
+  "author": "Heldi Arisandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heldi90/belajar-async-await-js/issues"
+  },
+  "homepage": "https://github.com/heldi90/belajar-async-await-js#readme"
+}
